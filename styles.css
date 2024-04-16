@@ -173,7 +173,8 @@ main {
 .w-single:nth-child(3) .w-single-tab,
 .w-single:nth-child(4) .w-single-tab,
 .w-single:nth-child(5) .w-single-tab,
-.w-single:nth-child(6) .w-single-tab {
+.w-single:nth-child(6) .w-single-tab,
+.w-single:nth-child(7) .w-single-tab {
     position: sticky;
     left: 0;
     top: 0;
@@ -286,7 +287,8 @@ main {
     .w-single:nth-child(3) .w-single-tab,
     .w-single:nth-child(4) .w-single-tab,
     .w-single:nth-child(5) .w-single-tab,
-    .w-single:nth-child(6) .w-single-tab {
+    .w-single:nth-child(6) .w-single-tab,
+    .w-single:nth-child(7) .w-single-tab {
         top: 12rem;
     }
 
